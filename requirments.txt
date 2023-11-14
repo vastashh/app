@@ -1,0 +1,7 @@
+fastapi
+pydantic
+langchain
+openai-whisper
+pydub
+datetime
+uvicorn
